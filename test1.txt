@@ -1,1 +1,2 @@
-Apple is a fruits
+Apple is a fruits.
+Mango is a fruits
